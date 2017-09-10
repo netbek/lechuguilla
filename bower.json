@@ -1,0 +1,12 @@
+{
+  "name": "lechuguilla",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "temp",
+    "test"
+  ],
+  "dependencies": {}
+}

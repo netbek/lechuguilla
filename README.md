@@ -1,1 +1,7 @@
 # lechuguilla
+
+## Installation
+
+```
+./install.sh
+```
