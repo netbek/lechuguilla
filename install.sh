@@ -8,6 +8,7 @@ else
   echo "Virtual environment created"
 fi
 
-venv/bin/pip install -r requirements.txt
+source venv/bin/activate
+pip install -r requirements.txt
 
 yarn install --pure-lockfile
